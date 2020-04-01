@@ -1,6 +1,6 @@
 ---
-title: Economics IA1 Carbon tax of 5 dollars per tonne of greenhouse gas emissions
-  to be levied in Singapore
+title: Economics IA1 Microeconomics Carbon tax of 5 dollars per tonne of greenhouse
+  gas emissions to be levied in Singapore
 date: 2020-04-01 23:04:00 +08:00
 ---
 
