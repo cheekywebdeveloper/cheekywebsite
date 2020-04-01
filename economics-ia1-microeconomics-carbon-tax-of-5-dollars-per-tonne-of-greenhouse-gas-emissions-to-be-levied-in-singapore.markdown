@@ -116,6 +116,7 @@ body {
     <a href="http://mounteetokia.siteleaf.net/Economics-extended-essays.html">Economics EEs</a>
     <a href="http://mounteetokia.siteleaf.net/Chemistry-extended-essays.html">Chemistry EEs</a>
     <a href="http://mounteetokia.siteleaf.net/Business-Management-extended-essays.html">Business Management EEs</a>
+    <a href="http://mounteetokia.siteleaf.net/english-extended-essays.html">English EEs</a>
     <a href="http://mounteetokia.siteleaf.net/EERPPF-Good-Reflections.html">EERPPF Good Reflections</a>
   </div>
   <button class="dropdown-btn">Internal Assessments 
@@ -128,6 +129,7 @@ body {
       <a href="http://mounteetokia.siteleaf.net/HLMathematics-internal-assessments.html">HL Math IAs</a>
       <a href="http://mounteetokia.siteleaf.net/Physics-internal-assessments.html">Physics IAs</a>
       <a href="http://mounteetokia.siteleaf.net/History-internal-assessments.html">History IAs</a>
+      <a href="http://mounteetokia.siteleaf.net/business-management-internal-assessments.html">Business Management IAs</a>
       <a href="http://mounteetokia.siteleaf.net/SLLangLit-internal-assessments.html">SL Language & Literature IAs</a>
       <a href="http://mounteetokia.siteleaf.net/SLChineseB-internal-assessments.html">SL Chinese B IAs</a>
   </div> 
