@@ -91,6 +91,9 @@ body {
   background: rgba(0,0,0,.99);
 }
 
+.intro {
+  height: 240px;
+}
 
 </style>
 </head>
@@ -147,26 +150,25 @@ body {
 </div>
 
 <div style="padding-left:16px">
-  <h2>Introduction (myself)</h2>
-  <ul>
-    <li><strong>November 2019</strong> International Baccalaureate (IB) Diploma Programme graduate</li><br>
-    <li>Score of <strong>43 points, maximum 3 bonus points: A in Extended Essay, and A in Theory Of Knowledge.</strong> [Click here for my IB certificate]</li><br>
-  <li>Subject Combination:</li>HL Chemistry (7), HL Economics (7), HL Mathematics (6)<br>SL Biology (7), SL Chinese B (7), SL English A: Language & Literature (6)
-</ul>  
-</div>
-
-<div style="padding-left:16px">
   <h2>What's this website for?</h2>
   <p><strong>Real</strong> samples for your reference of:</p>
 
 <ol>
   <li><strong>High-scoring Extended Essays (A-grade only)</strong></li>
-  <li><strong>High-scoring IAs (from a range of subjects not limited to my subject combination) (A-grade only)</strong></li>
-  <li><strong>High-scoring TOK Essays (A-grade only)</strong></li>
-  <li><strong>High-scoring TOK Presentations (A-grade only)</strong></li>
+  <li><strong>High-scoring Internal Assessments (a range of subjects not limited to my subject combination) (A-grade only)</strong></li>
+  <li><strong>High-scoring Theory Of Knowledge Essays & Presentations (A-grade only)</strong></li>
 </ol> 
-<p>This blog will be <strong>regularly updated</strong> to include more A-grade Extended Essays and IAs from <strong>different subjects</strong>, as well as TOK Essays and Presentations: Remember to bookmark this blog!<br>Questions? Email us at MountEETOKIA@gmail.com.</p>  
+<p>This site will be <strong><font color="D40000">regularly updated</font></strong> to include more A-grade EEs and IAs from <strong><font color="D40000">different subjects</font></strong>, and TOK samples.<br> Sample count as of 1 April 2020: <strong><font color="00AE0C"><font size="4"><u>147</u></font></font></strong> and more coming very soon...<strong><font color="D40000"> Tip: Bookmark this site!</font></strong></p>
   
+</div>
+
+<div class="intro">
+  <h2>Introduction (myself)</h2>
+  <ul style="line-height:1.2;">
+    <li><strong>November 2019</strong> International Baccalaureate (IB) Diploma Programme graduate</li><br>
+    <li>Score of <strong>43 points, maximum 3 bonus points:</strong> <strong><font color="D40000"> A in Extended Essay, and A in Theory Of Knowledge.</font></strong> <a href="https://google.com/">[Click here for my IB certificate]</a></li><br>
+  <li>HL Chemistry (7), HL Economics (7), HL Mathematics (6) SL Biology (7), SL Chinese B (7), SL English A: Language & Literature (6)</li>
+</ul>  
 </div>
 
 <div class="footer">
