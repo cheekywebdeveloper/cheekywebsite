@@ -105,7 +105,7 @@ body {
       <a href="http://mounteetokia.siteleaf.net/Economics-extended-essays.html">Economics EEs</a>
       <a href="http://mounteetokia.siteleaf.net/Chemistry-extended-essays.html">Chemistry EEs</a>
       <a href="http://mounteetokia.siteleaf.net/Business-Management-extended-essays.html">Business Management EEs</a>
-      <a href="htto://mounteetokia.siteleaf.net/english-extended-essays.html">English EEs</a>
+      <a href="http://mounteetokia.siteleaf.net/english-extended-essays.html">English EEs</a>
       <a href="http://mounteetokia.siteleaf.net/EERPPF-Good-Reflections.html">EERPPF Good Reflections</a>
     </div>
   </div> 
