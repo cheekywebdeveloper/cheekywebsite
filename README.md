@@ -92,7 +92,7 @@ body {
 }
 
 .intro {
-  height: 240px;
+  height: 440px;
 }
 
 </style>
