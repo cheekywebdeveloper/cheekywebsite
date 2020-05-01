@@ -1,6 +1,6 @@
 ---
-title: Business Management Extended Essay Should ML Rating Studio develop a WeChat
-  mini program to remain competitive
+title: Business Internal Assessment Should ML Rating Studio develop a WeChat mini
+  program to remain competitive
 date: 2020-05-01 17:35:00 +08:00
 ---
 
