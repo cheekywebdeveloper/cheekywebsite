@@ -161,8 +161,8 @@ img {
 <div class="auto">
   <h2>Geography Internal Assessments [Grade 7, High-scoring]</h2>
   <p>
-  <a style="text-decoration:none" href="http://mounteetokia.siteleaf.net/biology-internal-assessments-investigating-the-effect-of-varying-light-intensities-on-the-potassium-ion-remediation-properties-of-lemna-minor-duckweed.html" target="_blank">
-  <img style="vertical-align:middle" src="https://www.svgrepo.com/show/64173/pdf-file.svg" width="50" height="50" hspace="15"> Investigating the effect of varying light intensities on the potassium ion remediation properties of Lemna minor (duckweed).</a></p><br>
+  <a style="text-decoration:none" href="http://mounteetokia2.siteleaf.net/geography-internal-assessment-the-difference-in-microclimates-between-the-residential-areas-of-west-bay-condo-and-its-adjacent-green-areas-of-west-coast-park.html" target="_blank">
+  <img style="vertical-align:middle" src="https://www.svgrepo.com/show/64173/pdf-file.svg" width="50" height="50" hspace="15"> The difference in microclimates between the residential areas of West Bay Condominium and its adjacent green areas of West Coast Park.</a></p><br>
 
 </div>
 
